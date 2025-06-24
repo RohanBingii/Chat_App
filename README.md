@@ -22,6 +22,7 @@ A modern real-time chat application built with React and Firebase, featuring vid
 - Tencent Cloud UIKit for video/audio calls
 - React Toastify for notifications
 - Vite for build tooling
+- WebRTC – Real-Time Audio/Video Communication
 
 ## Quick Start
 
